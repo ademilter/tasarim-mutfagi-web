@@ -57,7 +57,7 @@
     "@storybook/addons": "^5.0.6",
     "@storybook/react": "^5.0.6",
     "babel-loader": "^8.0.5",
-    "postcss": "^7.0.14",
+    "postcss": "^8.2.10",
     "postcss-comment": "^2.0.0",
     "postcss-custom-media": "^7.0.8",
     "postcss-extend": "^1.0.5",
